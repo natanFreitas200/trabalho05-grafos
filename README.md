@@ -134,6 +134,3 @@ Este projeto demonstra:
 
 Desenvolvido como trabalho acadêmico para estudo de algoritmos em grafos.
 
-## Licença
-
-Este projeto é de uso educacional.
